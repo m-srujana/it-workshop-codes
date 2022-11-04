@@ -1,0 +1,62 @@
+<html>
+<head>
+<title>image</title>
+</head>
+<body>
+<center>
+<table>
+<tr>
+<td>
+<a href="https://www.facebook.com/">
+<img src="/home/cse-lab/Desktop/b191124/Facebook-logo.png"height="200 px" width="200 px">
+</a>
+</td>
+<td>
+<a href="https://www.instagram.com/">
+<img src="/home/cse-lab/Desktop/b191124/Instagram_icon.png.webp"height="200 px" width="200 px">
+</a>
+</td>
+<td>
+<a href="https://www.youtube.com/">
+<img src="/home/cse-lab/Desktop/b191124/youtube-logo-hd-8.png"height="200 px" width="200 px">
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://www.twitter.com/">
+<img src="/home/cse-lab/Desktop/b191124/logo-rond-twitter.png"height="200 px" width="200 px">
+</a>
+</td>
+<td>
+<a href="https://www.google.com/">
+<img src="/home/cse-lab/Google+.jpg"height="200 px" width="200 px">
+</a>
+</td>
+<td>
+<a href="https://www.linkedin.com/">
+<img src="/home/cse-lab/Desktop/b191124/in logo.jpg"height="200 px" width="200 px">
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://www.snapchat.com/">
+<img src="/home/cse-lab/Desktop/b191124/Snapchat-logo.png"height="200 px" width="200 px">
+</a>
+</td>
+<td>
+</a>
+<a href="https://www.whatsapp.com/">
+<img src="/home/cse-lab/Downloads/whatsapp.png"height="200 px" width="200 px">
+</a>
+</td>
+<td>
+<a href="https://www.pinterest.com/">
+<img src="/home/cse-lab/Downloads/pinterest.png"height="200 px" width="200 px">
+</a>
+</td>
+</tr>
+</table>
+</body>
+</html>
